@@ -195,6 +195,7 @@ h3{
 ul{
     columns: 2; 
     list-style-position: inside;  
+    margin-left: 4em;
   
 }
  ul li{
